@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ersoistre.github.io/sitemap.html.gz
+Sitemap: https://ersoistre.github.io/app/sitemap.html.gz
+Sitemap: https://ersoistre.github.io/assets/sitemap.html.gz
+Sitemap: https://ersoistre.github.io/css/sitemap.html.gz
+Sitemap: https://ersoistre.github.io/includes/sitemap.html.gz
+Sitemap: https://ersoistre.github.io/item/sitemap.html.gz
+Sitemap: https://ersoistre.github.io/src/sitemap.html.gz
